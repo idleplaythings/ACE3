@@ -183,7 +183,7 @@ class CfgAmmo {
     class B_762x51_Ball : BulletBase {
         airFriction=-0.00100957;
         typicalSpeed=833;
-        hit=9;
+        hit=12;
         tracerStartTime=0.073;  // Based on the British L5A1 which burns out to 1000m 
         tracerEndTime=2.15957;  // Time in seconds calculated with ballistics calculator
         ACE_caliber=7.823;
